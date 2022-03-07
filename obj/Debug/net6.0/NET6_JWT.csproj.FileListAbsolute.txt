@@ -1,0 +1,7 @@
+C:\Users\KenWen\source\repos\NET6_JWT\NET6_JWT\obj\Debug\net6.0\NET6_JWT.csproj.AssemblyReference.cache
+C:\Users\KenWen\source\repos\NET6_JWT\NET6_JWT\obj\Debug\net6.0\NET6_JWT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KenWen\source\repos\NET6_JWT\NET6_JWT\obj\Debug\net6.0\NET6_JWT.AssemblyInfoInputs.cache
+C:\Users\KenWen\source\repos\NET6_JWT\NET6_JWT\obj\Debug\net6.0\NET6_JWT.AssemblyInfo.cs
+C:\Users\KenWen\source\repos\NET6_JWT\NET6_JWT\obj\Debug\net6.0\NET6_JWT.csproj.CoreCompileInputs.cache
+C:\Users\KenWen\source\repos\NET6_JWT\NET6_JWT\obj\Debug\net6.0\NET6_JWT.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KenWen\source\repos\NET6_JWT\NET6_JWT\obj\Debug\net6.0\NET6_JWT.MvcApplicationPartsAssemblyInfo.cache
